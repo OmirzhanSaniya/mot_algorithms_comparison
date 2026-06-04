@@ -1,0 +1,37 @@
+[
+    {
+        "frame": 1,
+        "file_name": "/home/dell/nzh/dataset/m3ot-t/test/1-03T/img1/000001.PNG",
+        "num_gt": 1,
+        "num_noisy": 3,
+        "num_jpda": 3
+    },
+    {
+        "frame": 2,
+        "file_name": "/home/dell/nzh/dataset/m3ot-t/test/1-03T/img1/000002.PNG",
+        "num_gt": 1,
+        "num_noisy": 3,
+        "num_jpda": 6
+    },
+    {
+        "frame": 3,
+        "file_name": "/home/dell/nzh/dataset/m3ot-t/test/1-03T/img1/000003.PNG",
+        "num_gt": 1,
+        "num_noisy": 3,
+        "num_jpda": 9
+    },
+    {
+        "frame": 4,
+        "file_name": "/home/dell/nzh/dataset/m3ot-t/test/1-03T/img1/000004.PNG",
+        "num_gt": 1,
+        "num_noisy": 3,
+        "num_jpda": 12
+    },
+    {
+        "frame": 5,
+        "file_name": "/home/dell/nzh/dataset/m3ot-t/test/1-03T/img1/000005.PNG",
+        "num_gt": 1,
+        "num_noisy": 2,
+        "num_jpda": 14
+    }
+]

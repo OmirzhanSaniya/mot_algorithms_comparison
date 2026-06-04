@@ -1,0 +1,51 @@
+FINAL COMPARISON REPORT
+==================================================
+Video ID: 9
+
+JPDA
+------------------------------
+Precision: 0.1271
+Recall: 0.9977
+F1-score: 0.2255
+True Positives: 1298
+False Positives: 8911
+False Negatives: 3
+Mean Distance: 1.6996
+KL(GT||Pred): 0.4461
+KL(Pred||GT): 6.0161
+Symmetric KL: 3.2311
+
+GM-PHD
+------------------------------
+Precision: 1.0000
+Recall: 0.4512
+F1-score: 0.6218
+True Positives: 587
+False Positives: 0
+False Negatives: 714
+Mean Distance: 1.7885
+KL(GT||Pred): 6.5192
+KL(Pred||GT): 5.9057
+Symmetric KL: 6.2125
+
+PMBM-lite
+------------------------------
+Precision: 0.8312
+Recall: 0.7832
+F1-score: 0.8065
+True Positives: 1019
+False Positives: 207
+False Negatives: 282
+Mean Distance: 2.0837
+KL(GT||Pred): 2.3944
+KL(Pred||GT): 1.1127
+Symmetric KL: 1.7535
+
+SUMMARY
+------------------------------
+Best by symmetric KL: PMBM-lite
+Best by F1-score: PMBM-lite
+
+Interpretation:
+Lower KL means the predicted spatial distribution is closer to the ground truth.
+Higher F1-score means a better balance between precision and recall.
